@@ -1,0 +1,4 @@
+This is a simple program to read the time left from /dev/watchdog
+Reference:
+https://docs.kernel.org/watchdog/watchdog-api.html
+kernel/tools/testing/selftests/watchdog/watchdog-test.c
